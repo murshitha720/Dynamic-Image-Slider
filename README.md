@@ -57,8 +57,7 @@ JavaScript (ES6) – Dynamic control and logic
 ---
 
 🌍 Live Demo
-
-https://dynamic-image-slider-yourname.netlify.app
+https://lucent-lamington-21fb14.netlify.app
 
 
 ---
